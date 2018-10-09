@@ -202,3 +202,7 @@ paypal:
 download:
   name: Download
   icon: icon-box-add
+meetup:
+  name: Meetup
+  icon: icon-meetup
+  prepend: "https://www.meetup.com/"
