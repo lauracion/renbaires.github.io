@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Quiénes somos
 menu: true
 ---
@@ -21,3 +21,4 @@ Objetivos
 5. Organizar, patrocinar y promover cursos, congresos o reuniones para divulgar el uso de R, impartir conocimiento y mostrar los avances y resultados obtenidos mediante su aplicación.
 6. Expandir la base de conocimientos para hacerla accesible en idioma español. Los datos y los análisis de datos son una forma de conocimiento.
 7. Contribuir activamente al desarrollo de herramientas de R como modo de aprendizaje y de participación en la comunidad global.
+
