@@ -10,56 +10,56 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
+home:                  Inicio
+pages:                 Páginas
 posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
+about:                 Acerca de
+related_posts:         Posts relacionados
+other_projects:        Otros proyectos
+comments:              Comentarios
+jump_to:               Ir a 
+navigation:            Navegación
 social:                Social
 links:                 Links
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+pagination:            Paginación
+newer:                 Siguiente
+older:                 Anterior
+back:                  Atrás
 permalink:             Permalink
 permalink_icon:        icon-link
-templates:             Templates (for web app)
+templates:             Templates (para web app)
 present:               present
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Cargando…
+redirecting:           Redirigiendo…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Seguir leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/hydejack/cookies-policy/).
-  okay:                Okay
+    Este sitio usa cookies. [Cookies Policy](/hydejack/cookies-policy/).
+  okay:                Ok
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Página no encontrada'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Ups. Esta URL ya no existe o nunca existió. 
+    <!--home_link--> para buscarla de nuevo.
+  home_link:           Volver al inicio
 
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Ups. Ocurrió un error al cargar <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        'en '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             'en '
 tag_separator:         ', '
 from_to_separator:     '–'
 
