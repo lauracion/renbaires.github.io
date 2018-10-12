@@ -206,3 +206,12 @@ meetup:
   name: Meetup
   icon: icon-meetup
   prepend: "https://www.meetup.com/"
+rconsortium:
+  name: R Consortium
+  icon: icon-rconsortium
+  prepend: ""
+slack:
+  name: Slack
+  icon: icon-slack
+  prepend: "https://"
+  append: ".slack.com/"

@@ -2,6 +2,7 @@
 layour: page
 title: Código de Conducta
 menu: true
+order: 3
 ---
 
 # Código de conducta

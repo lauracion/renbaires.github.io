@@ -2,6 +2,7 @@
 layout: about
 title: Quiénes somos
 menu: true
+order: 1
 ---
 
 # Misión
